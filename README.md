@@ -22,3 +22,8 @@
     
     expect both article titles and bodies to be present
     
+ - show article feature test
+    
+    create 1 article to display
+    
+    show the article title and details
