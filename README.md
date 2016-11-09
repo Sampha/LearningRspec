@@ -30,4 +30,14 @@
     
  - Articles request error test
     
+ - User sign-up
+ 
+    visit root
+    click on signup link
+    fill in email and password + confirmation
+    
+    Sign up
+    
+    invalid signup
+    
     
